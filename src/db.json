@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "name": "Ariel",
+      "email": "ariel@gmail.com",
+      "password": "1233333",
+      "id": "R9npRPdNMq0",
+      "imagem": "https://avatars.githubusercontent.com/u/148490113?v=4"
+    },
+    {
+      "name": "Luana",
+      "email": "lu@gmail.com",
+      "password": "123854",
+      "id": "_Q-qThbuWK0",
+      "imagem": "https://githubusercontent.com"
+    },
+    {
+      "name": "Tânia",
+      "email": "tania@gmail.com",
+      "password": "75455555",
+      "id": "0WOx63zjIlI",
+      "imagem": "https://githubusercontent.com"
+    },
+    {
+      "name": "Maria",
+      "email": "maria@gmail.com",
+      "password": "76868686",
+      "id": "0PD-v1Bqg4s",
+      "imagem": "https://githubusercontent.com"
+    },
+    {
+      "name": "Taciana",
+      "email": "taci@gmail.com",
+      "password": "4555555",
+      "id": "OWqk8J31KzA",
+      "imagem": "https://githubusercontent.com"
+    },
+    {
+      "name": "Penelope",
+      "email": "penelope@hotmail.com",
+      "password": "78585555",
+      "id": "0pqrDKnr15c",
+      "imagem": "https://githubusercontent.com"
+    },
+    {
+      "name": "Antonella",
+      "email": "antonella@gmail.com",
+      "password": "258745",
+      "id": "r3gmSPnleVY",
+      "imagem": "https://githubusercontent.com"
+    },
+    {
+      "name": "Fabiana Souza",
+      "email": "fabiana@gmail.com",
+      "password": "1234699",
+      "id": "AuNn2lapPJk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
